@@ -1,0 +1,108 @@
+{
+  "id": "c6c031a1-cada-9fcb-c0c4-270fc6829074",
+  "name": "Collection",
+  "requests": [
+    {
+      "id": "5114de80-2df7-1877-d9a5-5e6245360b1a",
+      "collectionId": "c6c031a1-cada-9fcb-c0c4-270fc6829074",
+      "method": "PUT",
+      "url": "http://localhost:8080/user/57decffc0e52d216d4d664ad",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "f084f54d-e3c0-5c2e-3e0c-8ccfb163a4ad",
+      "collectionId": "c6c031a1-cada-9fcb-c0c4-270fc6829074",
+      "method": "POST",
+      "url": "http://localhost:8080/user",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "2756fb06-e189-60aa-4781-3fb761df5178",
+      "collectionId": "c6c031a1-cada-9fcb-c0c4-270fc6829074",
+      "method": "PATCH",
+      "url": "http://localhost:8080/user/57decffc0e52d216d4d664ad",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "d0c1795c-de8f-2d67-c01f-9f818311bf44",
+      "collectionId": "c6c031a1-cada-9fcb-c0c4-270fc6829074",
+      "method": "DELETE",
+      "url": "http://localhost:8080/user/57decfff0e52d216d4d664b2",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "aafe8d16-85f0-ecc5-4d78-8630cff447b9",
+      "collectionId": "c6c031a1-cada-9fcb-c0c4-270fc6829074",
+      "method": "GET",
+      "url": "http://localhost:8080/user/search/findByUserName?user=omkar.9999",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "e9a2e050-5a9e-0f3b-80b3-735bb763f746",
+      "collectionId": "c6c031a1-cada-9fcb-c0c4-270fc6829074",
+      "method": "GET",
+      "url": "http://localhost:8080/user",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    }
+  ]
+}
