@@ -42,7 +42,7 @@ public class ApplicationTests {
 	private MockMvc mockMvc;
 
 	@Autowired
-	private PersonRepository personRepository;
+	private UserRepository userRepository;
 
 	@Before
 	public void deleteAllBeforeTests() throws Exception {
