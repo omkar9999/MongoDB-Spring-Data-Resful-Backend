@@ -1,4 +1,4 @@
-# MongoDB-Spring-Data-Resful-Backend
+# MongoDB-Spring-Data-Restful-Backend
 This is a backend Java(Maven+Gradle) Project for 
 Monitoring Dashboard Angular App
 
