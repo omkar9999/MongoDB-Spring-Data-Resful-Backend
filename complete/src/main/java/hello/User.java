@@ -1,10 +1,15 @@
 package hello;
 
 import org.springframework.data.annotation.Id;
-//import org.springframework.data.mongodb.core.mapping.*;
 import java.util.*;
 import hello.EndPoint;
 
+/**
+ * Class to hold information about user & 
+ * his saved endpoints & databases.
+ * @author Omkar
+ *
+ */
 public class User {
 
 	@Id private String id;
